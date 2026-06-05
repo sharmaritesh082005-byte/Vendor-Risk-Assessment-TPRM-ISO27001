@@ -1,0 +1,1 @@
+# Vendor-Risk-Assessment-TPRM-ISO27001
